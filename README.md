@@ -1,6 +1,9 @@
 # Quicx page builder rc1
 Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 
+## [Controls List](https://github.com/themexpert/quicx/blob/master/CONTROLS.md)
+## [View List] (https://github.com/themexpert/quicx/blob/master/VIEW.md)
+
 ## Shortcuts
 - `ctrl+s` (on layout builder)-> save page
 - `ctrl+s` (on modal)-> update form + close modal
@@ -32,5 +35,3 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - [ ] instagram gallery
 - [ ] article
 - [ ] audio
-
-## [Controls Wiki](https://github.com/themexpert/quicx/wiki/Controls)
