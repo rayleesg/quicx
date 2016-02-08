@@ -108,3 +108,37 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - name: margin
   type: margin
 ```
+
+- *input-repeater*
+```yml
+- name: social
+  type: input-repeater
+  label: Social Links
+  help:
+  schema:
+    name: link
+    type: text
+  value: ['https://www.facebook.com/ThemeXpert','https://www.twitter.com/themexpert']
+```
+
+- *group-repeater*
+```yml
+- name: tabs
+   type: group-repeater
+   schema:
+     - name: title
+       value: Tab Title
+
+     - name: content
+       type: editor
+       value: Lorem ipsum dolor sit amet timeam deleniti mnesarchum ex sed
+
+     - name: enable_icon
+       type: switch
+
+     - name: icon
+       type : icon
+   value:
+     - title: Tab Title
+       content: Lorem ipsum dolor sit amet timeam deleniti mnesarchum ex sed
+```
