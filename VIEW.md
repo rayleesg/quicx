@@ -14,5 +14,5 @@ $classes = classNames( "qx-element qx-element-{$type} {$field['class']}");
 $document = \JFactory::getDocument();
 $template = JFactory::getApplication()->getTemplate();
 $document->addScript("templates/".$template."/quicx/elements/animatednumber/assets/js/jquery.countTo.js");
-$document->addScript("templates/".$template."/quicx/elements/animatednumber/assets/js/animatednumber.js");
+$document->addStyleSheet("templates/".$template."/quicx/elements/animatednumber/assets/js/animatednumber.css");
 ```
