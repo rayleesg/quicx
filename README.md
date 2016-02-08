@@ -33,4 +33,4 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - [ ] article
 - [ ] audio
 
-## Controls Wiki (https://github.com/themexpert/quicx/wiki/Controls)
+## [Controls Wiki](https://github.com/themexpert/quicx/wiki/Controls)
