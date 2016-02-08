@@ -11,27 +11,27 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 
 
 ## Elements
-- [] slider
-- [] testimonial
-- [] testimonial-pro
-- [] animated number
-- [] bar counter
-- [] cicle counter
-- [] contact form
-- [] countdown timer
-- [] email opt in
-- [] carousel
-- [] carousel pro
-- [] gallery
-- [] filterable gallery
-- [] maps
-- [] pricing table
-- [] video slider
-- [] social network follow icon
-- [] pinterest gallery
-- [] instagram gallery
-- [] article
-- [] audio
+- [ ] slider
+- [ ] testimonial
+- [ ] testimonial-pro
+- [ ] animated number
+- [ ] bar counter
+- [ ] cicle counter
+- [ ] contact form
+- [ ] countdown timer
+- [ ] email opt in
+- [ ] carousel
+- [ ] carousel pro
+- [ ] gallery
+- [ ] filterable gallery
+- [ ] maps
+- [ ] pricing table
+- [ ] video slider
+- [ ] social network follow icon
+- [ ] pinterest gallery
+- [ ] instagram gallery
+- [ ] article
+- [ ] audio
 
 
 ## Controls
