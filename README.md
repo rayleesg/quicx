@@ -20,10 +20,10 @@ Quicx is <strong>Responsive First</strong> page builder for Joomla built with ad
 
 
 ## Elements
-- [ ] slider
+- [x] slider
 - [ ] testimonial
 - [ ] testimonial-pro
-- [ ] animated number
+- [x] animated number
 - [ ] bar counter
 - [ ] circle counter
 - [ ] contact form
@@ -33,7 +33,7 @@ Quicx is <strong>Responsive First</strong> page builder for Joomla built with ad
 - [ ] carousel pro
 - [ ] gallery
 - [ ] filterable gallery
-- [ ] maps
+- [x] maps
 - [ ] pricing table
 - [ ] video slider
 - [ ] social network follow icon
