@@ -9,6 +9,31 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - `ctrl+shift+p` (on layout builder) -> save page and open preview
 - `shift+p` (on modal) -> updates form and opens preview (shift+s, ctrl+p combo)
 
+
+## Elements
+- [] slider
+- [] testimonial
+- [] testimonial-pro
+- [] animated number
+- [] bar counter
+- [] cicle counter
+- [] contact form
+- [] countdown timer
+- [] email opt in
+- [] carousel
+- [] carousel pro
+- [] gallery
+- [] filterable gallery
+- [] maps
+- [] pricing table
+- [] video slider
+- [] social network follow icon
+- [] pinterest gallery
+- [] instagram gallery
+- [] article
+- [] audio
+
+
 ## Controls
 - *select*
 ```yml
@@ -51,4 +76,35 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 ```yml
 - name: content
   type: editor
+```
+
+- *switch*
+```yml
+- name: enable_icon
+  type: switch
+```
+
+- *icon*
+```yml
+- name: icon
+  type : icon
+```
+
+- *image*
+```yml
+- name: bg_image
+  type: image
+  label: Background Image
+```
+
+- *margin*
+```yml
+- name: margin
+  type: margin
+```
+
+- *padding*
+```yml
+- name: margin
+  type: margin
 ```
