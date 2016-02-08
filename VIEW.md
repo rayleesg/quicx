@@ -11,7 +11,7 @@ $classes = classNames( "qx-element qx-element-{$type} {$field['class']}");
 
 ## How to add assets
 ```php
-$document = \JFactory::getDocument();
+$document = JFactory::getDocument();
 $template = JFactory::getApplication()->getTemplate();
 $document->addScript("templates/".$template."/quicx/elements/animatednumber/assets/js/jquery.countTo.js");
 $document->addStyleSheet("templates/".$template."/quicx/elements/animatednumber/assets/js/animatednumber.css");
