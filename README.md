@@ -149,3 +149,11 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
   type : link
   help : If you would like to make your blurb a link, input your destination URL here.
 ```
+
+- *slider*
+```yml
+- name: icon_font_size
+  type: slider
+  lable: Icon Font Size
+  value : 0
+```
