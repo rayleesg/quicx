@@ -10,13 +10,27 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - `shift+p` (on modal) -> updates form and opens preview (shift+s, ctrl+p combo)
 
 ## Controls
-- select
+- *select*
 ```yml
-    - name: type
-      type: select
-      value: accordion
-      help: Accordion allow one section to stay open at a time. Expandable allow multiple sections to stay open.
-      options:
-        accordion: Accordion
-        expandable: Expandable
+- name: type
+  type: select
+  value: accordion
+  help: Accordion allow one section to stay open at a time. Expandable allow multiple sections to stay open.
+  options:
+    accordion: Accordion
+    expandable: Expandable
+```
+
+- *typography*
+```yml
+- name: header_font
+  type: typography
+  label: Header Font
+```
+
+- *color*
+```yml
+- name: header_bg_color
+  type: color
+  label: Header Background
 ```
