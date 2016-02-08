@@ -15,7 +15,9 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - name: type
   type: select
   value: accordion
-  help: Accordion allow one section to stay open at a time. Expandable allow multiple sections to stay open.
+  help: >
+    Accordion allow one section to stay open at a time.
+    Expandable allow multiple sections to stay open.
   options:
     accordion: Accordion
     expandable: Expandable
