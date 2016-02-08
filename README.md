@@ -1,4 +1,5 @@
 # Quicx page builder rc1
+Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 
 ## Shortcuts
 - `ctrl+s` (on layout builder)-> save page
