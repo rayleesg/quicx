@@ -1,4 +1,4 @@
-# Quicx page builder rc1
+# Quicx page builder for Joomla
 Quicx is <strong>Responsive First</strong> page builder for Joomla built with advanced technology. Build interactive responsive page without any coding.
 
 ## Download:
