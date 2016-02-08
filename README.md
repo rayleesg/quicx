@@ -142,3 +142,10 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
      - title: Tab Title
        content: Lorem ipsum dolor sit amet timeam deleniti mnesarchum ex sed
 ```
+
+- *link*
+```yml
+- name : link
+  type : link
+  help : If you would like to make your blurb a link, input your destination URL here.
+```
