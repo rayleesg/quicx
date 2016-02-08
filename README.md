@@ -1,8 +1,8 @@
 # Quicx page builder rc1
 
 ## Download:
-[rc1.01](https://github.com/themexpert/quicx/files/121438/pkg_quicx-pro.zip)
-[rc1](https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip)
+- [quicx_rc1.01](https://github.com/themexpert/quicx/files/121438/pkg_quicx-pro.zip)
+- [quicx_rc1](https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip)
 
 ## Articles
 - [Controls List](https://github.com/themexpert/quicx/blob/master/CONTROLS.md)
