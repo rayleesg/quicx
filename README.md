@@ -34,3 +34,21 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
   type: color
   label: Header Background
 ```
+
+- *text*
+```yml
+- name: title
+  type: text
+```
+
+- *textarea*
+```yml
+- name: content
+  type: textarea
+```
+
+- *editor*
+```yml
+- name: content
+  type: editor
+```
