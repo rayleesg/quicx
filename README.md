@@ -16,7 +16,7 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 - [ ] testimonial-pro
 - [ ] animated number
 - [ ] bar counter
-- [ ] cicle counter
+- [ ] circle counter
 - [ ] contact form
 - [ ] countdown timer
 - [ ] email opt in
