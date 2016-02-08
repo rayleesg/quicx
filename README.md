@@ -3,7 +3,7 @@ Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 
 ## Articles
 - [Controls List](https://github.com/themexpert/quicx/blob/master/CONTROLS.md)
-- [View List] (https://github.com/themexpert/quicx/blob/master/VIEW.md)
+- [View] (https://github.com/themexpert/quicx/blob/master/VIEW.md)
 
 ## Shortcuts
 - `ctrl+s` (on layout builder)-> save page
