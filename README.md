@@ -1,8 +1,9 @@
 # Quicx page builder rc1
 Download: https://github.com/themexpert/quicx/files/121275/pkg_quicx-pro.zip
 
-## [Controls List](https://github.com/themexpert/quicx/blob/master/CONTROLS.md)
-## [View List] (https://github.com/themexpert/quicx/blob/master/VIEW.md)
+## Articles
+- [Controls List](https://github.com/themexpert/quicx/blob/master/CONTROLS.md)
+- [View List] (https://github.com/themexpert/quicx/blob/master/VIEW.md)
 
 ## Shortcuts
 - `ctrl+s` (on layout builder)-> save page
