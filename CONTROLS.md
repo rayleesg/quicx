@@ -15,7 +15,19 @@
 - name: header_font
   type: typography
   label: Header Font
+  
+  #value can be omited
+  value:
+    size: 
+    bold: 
+    underline: 
+    italic:
+    family: 
+    case: 
+    spacing:
+    height:
 ```
+You can fine tune typography options by not giving some of the options
 
 - *color*
 ```yml
@@ -65,13 +77,27 @@
 ```yml
 - name: margin
   type: margin
+  #value can be omited
+  value:
+    top:
+    bottom:
+    left:
+    right:
 ```
+You can fine tune margin options by not giving some of the options
 
 - *padding*
 ```yml
 - name: margin
   type: margin
+  #value can be omited
+  value:
+    top:
+    bottom:
+    left:
+    right:
 ```
+You can fine tune padding options by not giving some of the options
 
 - *input-repeater*
 ```yml
@@ -112,7 +138,13 @@
 - name : link
   type : link
   help : If you would like to make your blurb a link, input your destination URL here.
+  #value can be omited
+  value:
+    url:
+    text:
+    target:
 ```
+You can fine tune link options by not giving some of the options
 
 - *slider*
 ```yml
